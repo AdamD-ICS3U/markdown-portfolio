@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- Rubik's Cube
+  - 3x3
+  - 4x4
+- Computers
